@@ -2,7 +2,7 @@
 
 <div align="center" dir="auto">
 <h3>  Hi there 👋  </br>
- I'm Lucas and I'm from Brazil </h3> 
+ I'm Lucas and from Brazil </h3> 
 
 </br>
 <!--
