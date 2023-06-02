@@ -5,7 +5,7 @@
  I'm Lucas and I'm from Brazil </h3> 
 
 </br>
-
+<!--
 <a href="https://github.com/LKzinxyz">
 <img height="135em" src="https://github-readme-stats.vercel.app/api?username=LKzinxyz&show_icons=true&theme=midnight-purple"/><img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LKzinxyz&layout=compact&theme=midnight-purple"/>
 </div>
@@ -14,7 +14,7 @@
 <div style="display: inline_block"><br> 
 <div align="center" dir="auto">
 
-<!--
+
 <img align="center" alt="LK-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
 <img align="center" alt="LK-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
