@@ -1,7 +1,7 @@
 ### 
 
 <div align="center" dir="auto">
-<h3>  Hi there 👋  </br>
+<h3>  Hi there   </br>
  I'm Lucas and from Brazil </h3> 
 
 </br>
