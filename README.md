@@ -7,6 +7,7 @@
 </br>
 
 <!--
+
 <a href="https://github.com/LKzinxyz">
 <img height="135em" src="https://github-readme-stats.vercel.app/api?username=LKzinxyz&show_icons=true&theme=midnight-purple"/><img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LKzinxyz&layout=compact&theme=midnight-purple"/>
 </div>
@@ -19,8 +20,6 @@
 <img align="center" alt="LK-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
 <img align="center" alt="LK-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-
-<img align="center" alt="LK-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   
 <img align="center" alt="LK-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 
@@ -35,6 +34,8 @@
 <img align="center" alt="LK-Cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/>
 
 <img align="center" alt="LK-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
+
+<img align="center" alt="LK-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   
 -->
 
