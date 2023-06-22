@@ -1,10 +1,11 @@
 ### 
 
 <div align="center" dir="auto">
-<h3>  Hi there   </br>
+<h3>  Hello there 👋 </br>
  I'm Lucas and from Brazil </h3> 
 
 </br>
+
 <!--
 <a href="https://github.com/LKzinxyz">
 <img height="135em" src="https://github-readme-stats.vercel.app/api?username=LKzinxyz&show_icons=true&theme=midnight-purple"/><img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LKzinxyz&layout=compact&theme=midnight-purple"/>
@@ -25,18 +26,17 @@
 
 <img align="center" alt="LK-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 
-<img align="center" alt="LK-vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="center" alt="LK-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<img align="center" alt="LK-intelij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg"/>
-  
+<img align="center" alt="LK-lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg"/>
+
 <img align="center" alt="LK-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
 
 <img align="center" alt="LK-Cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/>
 
 <img align="center" alt="LK-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
   
-<img align="center" alt="LK-lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg"/>
- -->
+-->
 
 </div>
 </div>
